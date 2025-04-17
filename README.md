@@ -15,8 +15,3 @@ This project uses historical S&P 500 data to detect and predict potential stock 
 
 ## 📈 Visualization
 Crash predictions are overlaid on the S&P 500 chart for clarity.
-
-## 🚀 Getting Started
-```bash
-pip install -r requirements.txt
-python stock_crash_analysis.py
